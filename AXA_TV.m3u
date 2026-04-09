@@ -8,6 +8,9 @@
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
+#EXTINF:-1 tvg-id="none" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="Channels", ABS-CBN|ALL TV
+http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Channels", GMA 7	
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
@@ -126,11 +129,7 @@ https://abslive.akamaized.net/dash/live/2027618/c1ph/manifest.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pphd_sdi1/default/index.mpd
 
 #EXTINF:-1 tvg-id="Kix.Hd.ph" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="Channels", Kix
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9d4b7a18e2f4d6c9a103f5b7e1c2d88:7f3139092bf87d8aa51ee40e6294d376
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd
+http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqszdaNqmegxz2VkIuTd%2B31ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001583&contentid=ch00000000000000001583&videoid=ch00000090990000001263&recommendtype=0&userid=1319115127597&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=D4NMMH3RZQXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="Phoenix.Chinese.Channel.ph" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png" group-title="Channels", Phoenix Chinese Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -337,8 +336,14 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJaSftF.png" group-title="Converge Channel",Tap TV
+http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1260399616449&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RY6345WC6DSXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1 tvg-id="BLASTMOVIES.ph" tvg-logo="https://logowik.com/content/uploads/images/blast-tv73612.logowik.com.webp" group-title="Channels", Blast Movies
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3YvDUjL.png" group-title="Converge Channel",Tap Edge
+http://136.158.97.2:6610/001/2/ch00000090990000001150/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq%2B2uVbDOBwGF5t4YHKR5dbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001320&contentid=ch00000000000000001320&videoid=ch00000090990000001150&recommendtype=0&userid=1305735838223&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NUZJDSE8GBEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="809.astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx9fsf1T6Z4hVQ-3GKYxWuEZiEIR9KHoJWCA&s" group-title="Channels", Astro Showtime
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -355,6 +360,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=6d2f8a1c9b5e4c7da1f03e7b9d6c2a55:37c9835795779f8d848a6119d3270c69
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" group-title="Converge Channel",Tap Action Flix
+http://136.239.173.26:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpahcUJJEYAxPtEef94INw1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1826997527749&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BJ80X0UU6VXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1 tvg-id="Hits.Movies.ph" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="Channels", Hits Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -369,12 +377,34 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hitsmovies/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
 
+#EXTINF:-1 tvg-id="none" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Channels", Sony Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRND5NnsGHI1y_OouMdRw-hs
+
+#EXTINF:-1 tvg-id="AMC.us"" tvg-logo="http://46.151.196.243:80/images/DxmpwZXv7v7_FHtXZxPiHOWK76m5CFUSGL5DVBWsInsKnAWlNZfMCT0WfrQQfb2a.png" group-title="Channels", AMC
+http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRA1ypQZ_lfhQ0Fgs150ONhw
+
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="http://46.151.196.243:80/images/75Dasug4Cl3n03mPqiyvKcJMn7JvQlOQomxf7idgNWw.png" group-title="Channels", Comedy Central
+http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRETakflOrW6aJlantU0aIeU
+
+#EXTINF:-1 tvg-id="TNTPacific.us" tvg-logo="http://46.151.196.243:80/images/DxmpwZXv7v7_FHtXZxPiHOWK76m5CFUSGL5DVBWsInseEllgDci9nLfnHuRD9lw0.png" group-title="Channels", TNT
+http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRDqKO-SgmQ_2ZRbZQO9bAnk
+
+#EXTINF:-1 tvg-id="AandENetwork.us" tvg-logo="http://46.151.196.243:80/images/75Dasug4Cl3n03mPqiyvKStc5t_LKdBqaRu6wyDOuv8.png" group-title=Channels", A&E
+http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRC_7XrNrJPMW31YTt0ChxnM
+
 #EXTINF:-1 tvg-id="Warnertv.Hd.ph" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="Channels", Warner TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_warnerhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.GuV6r-_wS_WOT2X4DiIaoQAAAA%26pid%3DApi&f=1&ipt=fb760ec2ac749c904afe061425567d41af3f4df011a45c07a3c9eb1585577308&ipo=images" group-title="Premium Movie Channels", Sky Cinema Family
+http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRGf8Knvp5bD6x6XUBOxDcMc
+
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.aVFSwvHH8d6Jq7ZhP5NsIwAAAA%26pid%3DApi&f=1&ipt=bac1ff1181693dbe344dcff2e657b3925906c3b4cc38a6ff83c3cbc504b81641&ipo=images" group-title="Channels", Sky Cinema Greats
+http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctROiuNZO6HkTC0cqJSQYrubw
 
 #EXTINF:-1 tvg-id="Rock.Action.id" tvg-logo="https://uploads-ssl.webflow.com/64e961c3862892bff815289d/64f57100366fe5c8cb6088a7_logo_ext_web.png?fbclid=IwY2xjawGIHF9leHRuA2FlbQIxMAABHaW0_Y0A9XL4w1ZXDSwAZCAxe62ui1Oy3gU5wjykfHsZ0eCjzNxl05M0JQ_aem_NIH5vZtTty4_B8wy5fB2LA" group-title="Channels", Rock Action
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -397,6 +427,9 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/defau
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
 
+#EXTINF:-1 tvg-id="MTV.us" tvg-logo="http://46.151.196.243:80/images/qRv5tMYISGb_GqSGx1STv4qd9x-zjLvZBAdpg_6lmaVjnlPqUnLzUoM_hH_7DeuPsHJZTALPlWBCthhWmk--RkVNd6GXERjRLgeVxyhhhyA.png" group-title="Channels", MTV
+http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRFPwNgss8zZdrRQt_RDPpHs
+
 #EXTINF:-1 tvg-id="Depedchannel.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f3/DepEd_TV_Logo_2020.png" group-title="Channels", DepEd Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -405,11 +438,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/ind
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/depedch_sd/default/index.mpd
 
 #EXTINF:-1 tvg-id="Knowledge.Channel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Knowledge_Channel_logo.png" group-title="Channels", Knowledge Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/knowledge_channel/default/index.mpd
+http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="Bilyonaryoch.ph" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10" group-title="Channels", Bilyonaryo Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -515,13 +544,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
-
-#EXTINF:-1 tvg-id="Discovery.Channel.Asia.ph" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-title="Channels", Discovery Channel Asia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
-https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
 #EXTINF:-1 group-title="Channels" tvg-id="Kbs.World.ph" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s",KBS World
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -774,15 +796,10 @@ https://hls.iill.top/api/Eurosport-1/index.m3u8
 https://hls.iill.top/api/Eurosport-2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/500px-Tennis_Channel_logo.svg.png" group-title="Channels", Tennis Channel
-https://7pal.short.gy/tennisc
+http://zerotwo.access.ly:2096/Kentynes/0176324859/815080
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png/900" group-title="Channels",Tennis Channel 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=59F50679C9E60963BD0CB6640992AAAA:8685817c4d31f322e08940feeae2855a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+http://zerotwo.access.ly:2096/Kentynes/0176324859/815081
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/960px-Sky_Sports_2025.svg.png" group-title="Channels",Sky Sports 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -864,13 +881,11 @@ https://nog-live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-6-HD/default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-LIVE-EVENT-7-HD/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="Channels",ESPN HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://zap-live1-ott.izzigo.tv/6/out/u/dash/ESPN-HD-H265/default.mpd
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-logo="https://puddintap.click/ico/CA/SN360.png" group-title="Channels", SPORTSNET 360
+http://zerotwo.access.ly:2096/Kentynes/0176324859/815115
+
+#EXTINF:-1 tvg-id="Willow.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Willow_2023_stacked.svg/revision/latest?cb=20240927132511" group-title="Channels", WILLOW Sports
+http://zerotwo.access.ly:2096/Kentynes/0176324859/824823
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="Channels",ESPN 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -881,44 +896,19 @@ https://zap-live1-ott.izzigo.tv/6/out/u/dash/ESPN-HD-H265/default.mpd
 https://aca-live1-ott.izzigo.tv/7/out/u/dash/ESPN-2-HD-H265/default.mpd
 
 #EXTINF:-1 tvg-id=".ph" tvg-logo="https://i.imgur.com/VUPAGWN.png" group-title="Channels",TSN 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://otte....live.pv-cdn.net/OTT.../v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+http://zerotwo.access.ly:2096/Kentynes/0176324859/815122
 
 #EXTINF:-1 tvg-id=".ph" tvg-logo="https://i.imgur.com/SWscg4w.png" group-title="Channels",TSN 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://otte...live.pv-cdn.net/OTT.../v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+http://zerotwo.access.ly:2096/Kentynes/0176324859/815123
 
 #EXTINF:-1 tvg-id=".ph" tvg-logo="https://i.imgur.com/KBQSJxA.png" group-title="Channels",TSN 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://otte...live.pv-cdn.net/OTT.../v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
+http://zerotwo.access.ly:2096/Kentynes/0176324859/815124
 
 #EXTINF:-1 tvg-id=".ph" tvg-logo="https://i.imgur.com/ofAoWIg.png" group-title="Channels",TSN 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec20506536110038
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://otte...live.pv-cdn.net/OTT.../v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+http://zerotwo.access.ly:2096/Kentynes/0176324859/815125
 
 #EXTINF:-1 tvg-id=".ph" tvg-logo="https://i.imgur.com/6M4zAci.png" group-title="Channels",TSN 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://otte...live.pv-cdn.net/OTT.../v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+http://zerotwo.access.ly:2096/Kentynes/0176324859/815126
 
 #EXTINF:-1 tvg-id="History.Hd.ph" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" group-title="Channels", History
 #KODIPROP:inputstreamaddon=inputstream.adaptive
