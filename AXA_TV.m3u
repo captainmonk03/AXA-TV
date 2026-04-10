@@ -38,7 +38,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
 https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://toppng.com/uploads/preview/ma-news-tv-logo-11563045262oxeappsxdb.png" group-title="Channels", GMA News TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f1LyHro.png" group-title="Channels", GMA News TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -49,7 +49,7 @@ https://absplive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
 #EXTINF:-1 tvg-id="NONE" tvg-logo="https://www.pngmart.com/files/23/Cna-PNG-Image.png" group-title="Channels", CNA
 https://dai4s4shjeg0o.cloudfront.ne.../9c5127dd7652483785dece590f60b299/master.m3u8
 
-#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://p1.hiclipart.com/preview/960/979/640/tv-channel-icons-pack-gma-life-tv-color-png-icon.jpg" group-title="Channels", GMA Life TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SojROZW.png" group-title="Channels", GMA Life TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -248,9 +248,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Zee-Sine-Logo.jpg" group-title="Channels", Zee Sine
-https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Cg.Tagalogmovie.ph" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Channels", TMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -334,13 +331,13 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.
 #KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://puddintap.click/ico/KIDS/USA_DISNEY_CHANNEL_EAST.png" group-title="Channels", DISNEY CHANNEL EAST
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://puddintap.click/ico/KIDS/USA_DISNEY_CHANNEL_EAST.png" group-title="Channels", DISNEY CHANNEL
 http://zerotwo.access.ly:2096/Kentynes/0176324859/815100
 
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-logo="https://puddintap.click/ico/KIDS/USA_DISNEY_JUNIOR_EAST.png" group-title="Channels", DISNEY JUNIOR EAST
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-logo="https://puddintap.click/ico/KIDS/USA_DISNEY_JUNIOR_EAST.png" group-title="Channels", DISNEY JUNIOR
 http://zerotwo.access.ly:2096/Kentynes/0176324859/815102
 
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-logo="https://puddintap.click/ico/KIDS/USA_DISNEY_XD_EAST.png" group-title="Channels", DISNEY XD EAST
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-logo="https://puddintap.click/ico/KIDS/USA_DISNEY_XD_EAST.png" group-title="Channels", DISNEY XD
 http://zerotwo.access.ly:2096/Kentynes/0176324859/815104
 
 #EXTINF:-1 tvg-id="Nickelodeon.ph" tvg-logo="http://apkip.tv/logos/UK/Nickelodeon.uk.png" group-title="Channels", Nickelodeon
@@ -428,6 +425,20 @@ http://136.239.173.26:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hitsmovies/default/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Channels", AMC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3290efe4c5cf67165e846a0742c22cd9:ddb94463c46af6037432fc026339c09d
+https://otte.live.fly.ww.aiv-cdn.ne.../v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/abtANyj.png" group-title="Channels", AMC+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=59a51164c2c915352f04066a06f6e807:eba5cc362d1d63c0fe6460febca0fd11
+https://otte.live.fly.ww.aiv-cdn.ne.../v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
+
 #EXTINF:-1 tvg-id="Tapmovies.Hd.ph" tvg-logo="https://tapdmv.com/content/images/2024/10/16.webp" group-title="Channels", Tap Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -448,6 +459,9 @@ http://zerotwo.access.ly:2096/Kentynes/0176324859/814469
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_warnerhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="none" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="Channels", Comedy Central
+https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 
 #EXTINF:-1 tvg-id="Rock.Action.id" tvg-logo="https://uploads-ssl.webflow.com/64e961c3862892bff815289d/64f57100366fe5c8cb6088a7_logo_ext_web.png?fbclid=IwY2xjawGIHF9leHRuA2FlbQIxMAABHaW0_Y0A9XL4w1ZXDSwAZCAxe62ui1Oy3gU5wjykfHsZ0eCjzNxl05M0JQ_aem_NIH5vZtTty4_B8wy5fB2LA" group-title="Channels", Rock Action
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -919,7 +933,16 @@ http://zerotwo.access.ly:2096/Kentynes/0176324859/815115
 #EXTINF:-1 tvg-id="Willow.us" tvg-logo="https://ml.globenewswire.com/Resource/Download/196af2ad-3f74-4a74-9179-3b85d9698f87" group-title="Channels", WILLOW Sports
 http://zerotwo.access.ly:2096/Kentynes/0176324859/824823
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="Channels",ESPN 2
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Channels", FOX SPORTS
+http://zerotwo.access.ly:2096/Kentynes/0176324859/815036
+
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="Channels", FOX SPORTS 2
+http://zerotwo.access.ly:2096/Kentynes/0176324859/815037
+
+#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Channels", FUBO SPORTS
+http://zerotwo.access.ly:2096/Kentynes/0176324859/815042
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Channels",ESPN 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
