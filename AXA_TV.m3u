@@ -38,25 +38,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
 https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f1LyHro.png" group-title="Channels", GMA News TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5d848730e4a4f9b962290039dd2b96b:c959dc12f1bff5a66d030117fb7e9855
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
-https://absplive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
-
-#EXTINF:-1 tvg-id="NONE" tvg-logo="https://www.pngmart.com/files/23/Cna-PNG-Image.png" group-title="Channels", CNA
-https://dai4s4shjeg0o.cloudfront.ne.../9c5127dd7652483785dece590f60b299/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SojROZW.png" group-title="Channels", GMA Life TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d308ef487f54107b7da758e195ecbd3:9d4004d4c065dd4b85ad5bd12c35386f
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
-https://absplive.akamaized.net/dash/live/2099522/glife3/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://magmediaintl.com/images/logochannels/Hallypop%20Logo.png" group-title="Channels", Hallypop
 http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrQQqEzMGzqacd7xs%2FVYEXbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001373&contentid=ch00000000000000001373&videoid=ch00000090990000001152&recommendtype=0&userid=1181864451786&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9VC3RX5W7QLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
@@ -424,20 +405,6 @@ http://136.239.173.26:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hitsmovies/default/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Channels", AMC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3290efe4c5cf67165e846a0742c22cd9:ddb94463c46af6037432fc026339c09d
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/abtANyj.png" group-title="Channels", AMC+
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=59a51164c2c915352f04066a06f6e807:eba5cc362d1d63c0fe6460febca0fd11
-https://otte.live.fly.ww.aiv-cdn.ne.../v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
 
 #EXTINF:-1 tvg-id="Tapmovies.Hd.ph" tvg-logo="https://tapdmv.com/content/images/2024/10/16.webp" group-title="Channels", Tap Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
