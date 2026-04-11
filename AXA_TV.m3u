@@ -189,7 +189,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pbo_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="none" tvg-logo="https://imgur.com/i0iufM2" group-title="Channels", Tap Silog
+#EXTINF:-1 tvg-id="none" tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/300024/1280x720/latest.jpg" group-title="Channels", Tap Silog
 http://tvnijuan.net:25461/live/rictms/rictms/1392.m3u8
 
 #EXTINF:-1 tvg-id="Movies.Now.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png/revision/latest/scale-to-width-down/250?cb=20200114193517" group-title="Channels", MNX HD
