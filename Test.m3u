@@ -1,9 +1,10 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0
+
+#EXTINF:-1 tvg-id="cinemotfc" tvg-name="CINEMO TFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSAX3s9pZ_vF-BYCNl2YauNfH__T2bzKq1Q&s" group-title="🇵🇭 PHILIPPINES CHANNEL", CINEMO!
 #EXTVLCOPT:http-referrer=https://www.iwanttfc.com/
 #EXTVLCOPT:http-origin=https://www.iwanttfc.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:f06b6031a3604cc6708c14d83f1a1b27
-#EXTINF:-1 tvg-id="cinemotfc" tvg-name="CINEMO TFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSAX3s9pZ_vF-BYCNl2YauNfH__T2bzKq1Q&s" group-title="🇵🇭 PHILIPPINES CHANNEL", CINEMO!
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/8a903236-49ae-492b-b8f0-62e99c7ef69c/index.mpd
