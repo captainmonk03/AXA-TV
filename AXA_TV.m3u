@@ -801,7 +801,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
-#EXTINF:-1 tvg-id="beINSportsXtra.au" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Channels", beIN SPORTS XTRA
+#EXTINF:-1 tvg-id="beINSportsXtra.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658g" group-title="Channels", beIN SPORTS XTRA
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.shopify.com/s/files/1/0027/5716/5119/files/ufc-logo_png_0fe37a79-51d1-4a4e-9916-27da58e36ed0.png" group-title="Channels", UFC
@@ -821,6 +821,9 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 #KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-sofast-ireland-avod/AVODDAZNCOMBATFIGHTINGY2023M/AVODDAZNCOMBATFIGHTINGY2023M-title-logo-en.png" group-title="Channels", DAZN Combat
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://premierpadel.com/_next/image?url=https%3A%2F%2Fd1txpmnu5q46gr.cloudfront.net%2Fuploads%2Fimages%2Fwheretowatchinfo%2Fj4jkcuwz5iaohk330964beaj7wgv43j2.png&w=640&q=75" group-title="Channels", Red Bull TV
 https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
@@ -977,13 +980,13 @@ http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/757.ts
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://i.postimg.cc/xdnppLvX/NFL.png"group-title="Channels", NFL Network
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://static.wikia.nocookie.net/collegefootballmania/images/a/a7/NFL_Network.jpg/revision/latest/scale-to-width-down/1200?cb=20120525031425" group-title="Channels", NFL Network
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b26a662a10074eb0756404c8e90e765a:76e376bd25f92bed939435d982f92d3f
 https://ac-009.live.p7s1video.net/e0e064c8/t_004/ran-nflnetwork-de-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://nhltv.nhl.com/image/original/9acf9663-f593-4964-a420-0ec7a08fdc44.png"group-title="Channels", NHL TV
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://images.seeklogo.com/logo-png/19/1/nhl-network-logo-png_seeklogo-194791.png" group-title="Channels", NHL TV
 https://nhl-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Channels", ESPN
