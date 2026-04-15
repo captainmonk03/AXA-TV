@@ -444,6 +444,9 @@ https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="Starz.us" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz.png" group-title="Channels", STARZ
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/960px-American_Broadcasting_Company_Logo.svg.png" group-title="Channels", ABC
+http://89.187.178.197:1970/ABCNewYork/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Channels", Asiancrush
 https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8?app_bundle=https://www.asiancrush.com&app_name=asiancrush&app_store_url=&url=https://www.asiancrush.com&genre=Documentary,Independent,Sci-Fi%20&%20Fantasy,Kids%20&%20Family,Drama,Romance,Comedy,Action%20&%20Adventure,Sports&ic=&us_privacy=1YNN&gdpr=0&gdpr_consent=0&did=vir_webe2f1f1c449b2b43d72e1a991a25f2666&dnt=1&coppa=0
 
