@@ -18,3 +18,6 @@ http://89.187.178.197:1970/NBCNewYork/index.m3u8
 
 #EXTINF:-1,CBS New York
 http://89.187.178.197:1970/CBSNewYork/index.m3u8
+
+#EXTINF:-1,Tap Silog
+https://dice-live-ap.akamaized.net/hls/live/2001903/300024-317970/exchange300024xokvd_300024_4500/chunklist_video.m3u8?hdntl=exp=1776516975~acl=%2f*~id=1f7cf353-ce4f-4185-82d1-8e001bc413a7~data=hdntl,dWlkPW5VM0FxRHxkYzYwOTE2MC05YTVhLTRiNDItOWZkNy05M2Q5ZTIzMDEyZWImaXA9MTEyLjIwMS4yLjgxJmV4cD0xNzc2NTE3MDA0JmVpZD0zMDAwMjQmY2lkPWRjZS50YXBnbyZvaWQ9MzI1JnR5cGU9TElWRQ~hmac=a3e8d69907face6e2edaed39085573d73f233a915a92339e5967af5db106bdf2
