@@ -516,7 +516,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/defau
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/1280px-CTV_2_2018.svg.png" tvg-logo="" group-title="Channels", CTV2
+#EXTINF:-1 tvg-id="https://www.bellmedia.ca/lede/wp-content/uploads/2014/01/CTV2_Logo_Screen_RGB-2.png" tvg-logo="" group-title="Channels", CTV2
 http://stream.cammonitorplus.net/1731/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnyrzBApLiXcm4Z3ple6tnNpnVSbX_4GnKA&s" group-title="Channels", CBC
