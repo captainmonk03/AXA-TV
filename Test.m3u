@@ -29,7 +29,7 @@ https://mc-kypaaa4yzn.bunny.run/KJ0nmF8DB4md/gsat/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150182&id=0042500134&mediaId=g0042500134cle1000783tor
-#EXTINF:-1 tvg-id="0042500134" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/cle-tor/1920x1080.png" group-title="basketball",Cavaliers vs. Raptors 1:00 AM PHT
+#EXTINF:-1 tvg-id="0042500134" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/cle-tor/1920x1080.png" group-title="basketball",Cavaliers vs. Raptors 04/27 1:00 AM PHT
 https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150182&id=0042500134&mediaId=g0042500134cle1000783tor
 
 #KODIPROP:inputstream=inputstream.adaptive
